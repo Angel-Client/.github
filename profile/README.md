@@ -16,7 +16,7 @@ O **Angel Client** é um client de Minecraft para a versão **1.8.9**, desenvolv
 
 ## Links
 
-[Website](https://angelclient.xyz)
+[Website](https://angelclient.com.br)
 
 ## Créditos
 
